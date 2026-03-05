@@ -7,9 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I'm a first year master student from [School of Computer Science](https://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), supervised by [Prof. Shuai Li](https://shuaili8.github.io/). I am also currently working as a research intern in the Agent Group at [Ant Group](https://www.antgroup.com/), advised by [Dr. Chenyi Zhuang](https://scholar.google.com/citations?hl=zh-CN&user=0T-gu4UAAAAJ). I am currently seeking Summer 2026 internship opportunities in Research Scientist / MLE / Quant Researcher / Data Scientist / SDE. Feel free to reach out to me regarding potential opportunities or collaborations.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Prior to this, I completed my undergraduate studies in [School of Computer Science and Technology](https://www.cs.sjtu.edu.cn/), [Tongji University](https://www.tongji.edu.cn/), where I worked closely with [Academician Changjun Jiang](https://ysg.ckcest.cn/html/details/8210/index.html), [Prof. Qinyuan Liu](https://scholar.google.com/citations?user=FJZkhs8AAAAJ&hl=en) at the Fintech Lab, and [Prof. Yufei Chen](https://tongji.teacher.360eol.com/teacherBasic/preview?teacherId=13270) at the CAD Lab. 
+
+
+
+You can find my CV here: [Zuhao's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:zhzhang5@sjtu.edu.cn) 
+
 
 A data-driven personal website
 ======
