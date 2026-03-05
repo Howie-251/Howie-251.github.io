@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "id_photo.png"
   name             : "Zuhao Zhang (张祖豪)"
   # pronouns         : # example: "she/her"  
   bio              : "Master student in CS at SJTU"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
-  uri              : # https://howie-251.github.io
+  uri              :  https://howie-251.github.io
   email            : "zhzhang5@sjtu.edu.cn" 
 
   # Academic websites
