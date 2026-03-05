@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Zuhao Zhang (张祖豪)"
+  # pronouns         : # example: "she/her"  
+  bio              : "Master student in CS at SJTU"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiao Tong University"
+  uri              : # https://howie-251.github.io
+  email            : "zhzhang5@sjtu.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        :  howie_zhang_251
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
