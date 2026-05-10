@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<section id="about" class="home-section">
+<span id="about" class="home-anchor"></span>
 
 I am a first-year M.S. student at the [John Hopcroft Center for Computer Science](https://jhc.sjtu.edu.cn/) and the [School of Computer Science](https://www.cs.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [Prof. Shuai Li](https://shuaili8.github.io/). My research focuses on reinforcement learning and post-training for large language models, especially reward modeling, LLM reasoning, agent evaluation, and AI for Science.
 
 I am currently working on LLM-powered assistant evaluation and RLHF-style reward modeling in real-world decision systems. These experiences shape my broader interest in scalable feedback, evaluation, and alignment for foundation models. I am seeking research internship opportunities related to foundation models, post-training, reward modeling, LLM reasoning, and agents.
 
-[[CV]](/files/ZuhaoZhang_CV.pdf) [[Email]](mailto:zhzhang5@sjtu.edu.cn) [[GitHub]](https://github.com/Howie-251)
+[CV](/files/ZuhaoZhang_CV.pdf) · [Email](mailto:zhzhang5@sjtu.edu.cn) · [GitHub](https://github.com/Howie-251)
 
-</section>
-
-<section id="experiences" class="home-section">
+<span id="experiences" class="home-anchor"></span>
 
 ## Experiences
 
@@ -37,24 +35,20 @@ I am currently working on LLM-powered assistant evaluation and RLHF-style reward
 - Built an internal **Reward Server** and evaluation pipeline adopted by model training and evaluation workflows.
 - Contributed to **AWorld** by fixing MCP tool-calling issues in high-concurrency online environments, improving training and evaluation efficiency.
 
-</section>
-
-<section id="publications" class="home-section">
+<span id="publications" class="home-anchor"></span>
 
 ## Publications
 
 **MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**  
 **Zuhao Zhang**, Yuyue Cheng, Yuante Li, Chengyi Zhuang, Linjian Mo, Shuai Li  
 *ICML 2026 Spotlight* (Oral Pending)  
-[[Project Page]](https://miniappbench.github.io/)
+[Project Page](https://miniappbench.github.io/)
 
 **ERiC: Entropic Risk-aware Inference-in-the-loop Control for Adaptive Seawall Planning**  
 **Zuhao Zhang**, Zhijie Wang, Shuai Li, Meng Jin, Xinbing Wang  
 *Submitted to UAI 2026*
 
-</section>
-
-<section id="projects" class="home-section">
+<span id="projects" class="home-anchor"></span>
 
 ## Projects
 
@@ -65,9 +59,7 @@ I am currently working on LLM-powered assistant evaluation and RLHF-style reward
 - Built a Math Agent framework for code self-evolution to search high-dimensional error-correcting codes and approach theoretical bounds.
 - Found a **[31, 16, 7]** optimal linear code through code-evolution search; currently exploring still-unverified theoretical upper bounds.
 
-</section>
-
-<section id="education" class="home-section">
+<span id="education" class="home-anchor"></span>
 
 ## Education
 
@@ -81,9 +73,7 @@ B.Eng. in Computer Science and Technology
 *Sep. 2021 - Jun. 2025*  
 GPA: **4.77/5.00**; Rank: **21/130**
 
-</section>
-
-<section id="awards" class="home-section">
+<span id="awards" class="home-anchor"></span>
 
 ## Awards
 
@@ -92,12 +82,8 @@ GPA: **4.77/5.00**; Rank: **21/130**
 - Tongji University Academic Scholarship - First-class, 2023 (**Top 5%**).
 - Tongji University Academic Scholarship - First-class, 2022 (**Top 5%**).
 
-</section>
-
-<section id="teaching" class="home-section">
+<span id="teaching" class="home-anchor"></span>
 
 ## Teaching
 
 - Teaching Assistant, Advanced Language Program Design (Honor Class), Tongji University: Fall 2024, Fall 2023, Fall 2022; Spring 2024, Spring 2023.
-
-</section>
